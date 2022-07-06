@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "947485726547",
+    "firebase_url": "https://lucks-1b7e4.firebaseio.com",
+    "project_id": "lucks-1b7e4",
+    "storage_bucket": "lucks-1b7e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947485726547:android:7bc03ece577142cf4933a6",
+        "android_client_info": {
+          "package_name": "com.cryptopig.testingrxdart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947485726547-jvqmm4hc96hog396hpctfr8p7k9pfg3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7jrcFIyEPpIxhUpmaCBvXPFo-MRI2mhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947485726547-jvqmm4hc96hog396hpctfr8p7k9pfg3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
